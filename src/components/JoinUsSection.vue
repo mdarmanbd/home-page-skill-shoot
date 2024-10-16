@@ -1,8 +1,6 @@
 
 <script>
 
-
-
 </script>
 
 <template>
@@ -28,10 +26,4 @@
             </div>
         </div>
     </section>
- 
 </template>
-
-
-<style>
-
-</style>
